@@ -1,0 +1,15 @@
+C:\Users\p2tha\source\repos\øve 1_class'\bin\Debug\net6.0\øve 1_class'.exe
+C:\Users\p2tha\source\repos\øve 1_class'\bin\Debug\net6.0\øve 1_class'.deps.json
+C:\Users\p2tha\source\repos\øve 1_class'\bin\Debug\net6.0\øve 1_class'.runtimeconfig.json
+C:\Users\p2tha\source\repos\øve 1_class'\bin\Debug\net6.0\øve 1_class'.dll
+C:\Users\p2tha\source\repos\øve 1_class'\bin\Debug\net6.0\øve 1_class'.pdb
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.csproj.AssemblyReference.cache
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.AssemblyInfoInputs.cache
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.AssemblyInfo.cs
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.csproj.CoreCompileInputs.cache
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.dll
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\refint\øve 1_class'.dll
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.pdb
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\øve 1_class'.genruntimeconfig.cache
+C:\Users\p2tha\source\repos\øve 1_class'\obj\Debug\net6.0\ref\øve 1_class'.dll
